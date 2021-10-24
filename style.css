@@ -1,0 +1,32 @@
+img{
+    text-align: center;
+    margin-left: 600px;
+    width:20%;
+    height:40%;
+
+}
+
+*{
+    background-color: whitesmoke;
+
+}
+h1{
+    background-color: lightblue;
+}
+#subheading{
+    background-color: lightcoral;
+}
+.image{
+    border: lightblue;
+    
+    border-style:dashed;
+}
+#subheading{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#caption{
+    text-align: center;;
+}
